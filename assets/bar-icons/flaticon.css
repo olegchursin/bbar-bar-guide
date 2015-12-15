@@ -1,0 +1,112 @@
+@font-face {
+	font-family: "Flaticon";
+	src: url("flaticon.eot");
+	src: url("flaticon.eot#iefix") format("embedded-opentype"),
+	url("flaticon.woff") format("woff"),
+	url("flaticon.ttf") format("truetype"),
+	url("flaticon.svg") format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+	font-family: Flaticon;
+        font-size: 20px;
+font-style: normal;
+margin-left: 20px;
+}.flaticon-bar15:before {
+	content: "\e000";
+}
+.flaticon-bar16:before {
+	content: "\e001";
+}
+.flaticon-bar17:before {
+	content: "\e002";
+}
+.flaticon-bar18:before {
+	content: "\e003";
+}
+.flaticon-bar19:before {
+	content: "\e004";
+}
+.flaticon-bar20:before {
+	content: "\e005";
+}
+.flaticon-bar21:before {
+	content: "\e006";
+}
+.flaticon-barman1:before {
+	content: "\e007";
+}
+.flaticon-barman:before {
+	content: "\e008";
+}
+.flaticon-bartender:before {
+	content: "\e009";
+}
+.flaticon-beer18:before {
+	content: "\e00a";
+}
+.flaticon-beer19:before {
+	content: "\e00b";
+}
+.flaticon-beer20:before {
+	content: "\e00c";
+}
+.flaticon-blender4:before {
+	content: "\e00d";
+}
+.flaticon-bottle29:before {
+	content: "\e00e";
+}
+.flaticon-bottle30:before {
+	content: "\e00f";
+}
+.flaticon-bottle31:before {
+	content: "\e010";
+}
+.flaticon-bottle32:before {
+	content: "\e011";
+}
+.flaticon-cigarettes:before {
+	content: "\e012";
+}
+.flaticon-circles13:before {
+	content: "\e013";
+}
+.flaticon-cocktail22:before {
+	content: "\e014";
+}
+.flaticon-cocktail23:before {
+	content: "\e015";
+}
+.flaticon-coffee53:before {
+	content: "\e016";
+}
+.flaticon-corkscrew4:before {
+	content: "\e017";
+}
+.flaticon-drink39:before {
+	content: "\e018";
+}
+.flaticon-drink40:before {
+	content: "\e019";
+}
+.flaticon-drink41:before {
+	content: "\e01a";
+}
+.flaticon-drink42:before {
+	content: "\e01b";
+}
+.flaticon-female214:before {
+	content: "\e01c";
+}
+.flaticon-milkshake:before {
+	content: "\e01d";
+}
+.flaticon-recipes2:before {
+	content: "\e01e";
+}
+.flaticon-wine54:before {
+	content: "\e01f";
+}

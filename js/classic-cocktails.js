@@ -4,8 +4,8 @@ $(document).ready(function() {
     $('#classic-cocktail-info-1').toggle();
   });
 
-  $('#classic-cocktail-2').click(function() {
-    $('#classic-cocktail-info-2').toggle();
+  $('#classic-cocktail-aviation').click(function() {
+    $('#classic-cocktail-info-aviation').toggle();
   });
 
   $('#classic-cocktail-3').click(function() {
@@ -106,10 +106,6 @@ $(document).ready(function() {
 
   $('#classic-cocktail-25').click(function() {
     $('#classic-cocktail-info-25').toggle();
-  });
-
-  $('#classic-cocktail-26').click(function() {
-    $('#classic-cocktail-info-26').toggle();
   });
 
   $('#classic-cocktail-26').click(function() {

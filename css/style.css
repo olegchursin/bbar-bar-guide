@@ -173,7 +173,7 @@ nav ul li a img {
 
 #content-area {
   width: 100%;
-  padding: 50px 5% 0 13%;
+  padding: 70px 10% 0 13%;
 }
 
 #top-nav {
@@ -182,6 +182,15 @@ nav ul li a img {
   height: 60px;
   background: #263238;
   box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+}
+
+.page-title {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 1.5em;
+  color: #455A64;
+  text-transform: uppercase;
+  margin: 20px 0;
 }
 
 h1 {
@@ -196,8 +205,9 @@ h1 {
 h2 {
   font-family: "Roboto", sans-serif;
   font-weight: 300;
+  text-transform: uppercase;
   color: #455A64;
-  padding: 20px 0 0;
+  padding: 30px 0 10px;
   margin: 0;
 }
 
@@ -247,6 +257,10 @@ a {
   display: inline-block;
   vertical-align: top;
   padding: 20px;
+}
+
+.description h3 {
+  padding-top: 0;
 }
 
 th {
@@ -336,8 +350,26 @@ footer {
 }
 
 .brand-img {
-  width: 80px;
+  width: 60px;
   float: right;
+}
+
+.brand-img-h-150 {
+  height: 150px;
+  width: auto;
+  float: right;
+}
+
+.glassware-img {
+  height: 100px;
+  width: auto;
+}
+
+.glassware-card {
+  display: inline-block;
+  font-size: .7em;
+  padding-right: 40px;
+  text-align: center;
 }
 
 .tools-img {
